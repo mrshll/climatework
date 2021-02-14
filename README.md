@@ -24,6 +24,6 @@ Listed positions must be unambiguous in its role to mitigate climate change and 
 - How to apply and the application deadline, if applicable
 
 # Help
-The board is currently managed by [mrshll](https://mrshll.com). Other members of the community are welcome to join this repository as a collaborator to help manage new listing PRs.
+The board is currently managed by [marsh](https://mrshll.com). Other members of the community are welcome to join this repository as a collaborator to help manage new listing PRs.
 
 The site is based on [the webring](https://github.com/XXIIVV/webring).
