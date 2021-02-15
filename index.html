@@ -19,6 +19,7 @@
     </li>
   </ol>
   <footer>
+    <img id="icon" src="img/icon.gif" alt="icon" />
     <p class="readme">
       This board is an attempt to connect talented people with organizations that increase energy efficiency, decrease
       CO<sub>2</sub> emissions, and conserve our natural resources.
@@ -31,25 +32,23 @@
       If you find a job listing that is no longer active, or if a link is broken, please <a
         href="https://github.com/mrshll/climatework/issues/new" target="_blank">report it</a>.<br />
     </p>
-    <img id="icon" src="img/icon.gif" alt="icon" />
   </footer>
   <style>
     :root { --color-alpha: white; --color-beta: #4b4b4b; }
-    body { font-size: 12px; font-family: monospace; color: var(--color-beta); font-weight: 400; line-height: 1.6; }
+    body { font-size: 12px; font-family: monospace; color: var(--color-beta); font-weight: 400; line-height: 1.6; padding: 30px; }
     body a { text-decoration: none; color: #3d7496; }
     body a:hover { background-color: #3d7496; color: white; }
     body a:before { content: '{'; }
     body a:after { content: '}'; }
-    body>ol { margin: 30px; padding: 0px 30px 30px; column-count: 3; display: block; border-bottom: 2px solid var(--color-beta); }
-    body>ol>li { padding-right: 30px; }
+    body>ol { margin-bottom: 30px; padding: 0px 30px 12px; column-count: 1; display: block; border-bottom: 1px dotted var(--color-beta); }
+    body>ol>li { padding-right: 30px; margin-bottom: 18px; }
     body>ol>li:target { background: var(--color-beta); }
     body>ol>li:target a { color: var(--color-alpha); }
     body>ol>li a:visited:before, body>ol>li a:visited:after { color: var(--color-alpha); }
-    body>footer { margin: 30px; }
     body>footer>p { max-width: 600px; }
     body>footer>img { display: inline-block; width: 100px; margin-bottom: -5px; margin-bottom: 30px; }
-    @media screen and (max-width: 800px) { body>ol { column-count: 2; } }
-    @media screen and (max-width: 600px) { body>ol { column-count: 1; } }
+    @media screen and (max-width: 800px) { body { padding: 20px; } body>ol { column-count: 1; } }
+    @media screen and (max-width: 600px) { body { padding: 10px; } body>ol { column-count: 1; } }
     @media (prefers-color-scheme: dark) { :root { --color-alpha: #4b4b4b; --color-beta: white; } } 
   </style>
 </body>
