@@ -2,13 +2,15 @@
 
 This board is an attempt to connect talented people with organizations that increase energy efficiency, decrease CO2 emissions, and conserve our natural resources.
 
-## List an open position
+## How to add an open position
 
-1. Add the organization name, the position title, and the area (in parentheses).
+1. Add the organization name, the job listing url, position and the location to [posts.rss](posts.rss) in a pull request. Don't know how? Ask me fore help!
 
-```html
-<li>
-  <a href="https://upstream.tech">Upstream Tech - Machine Learning Engineer</a> (Remote)
+```xml
+<item>
+  <title>Upstream Tech</title>
+  <link>https://upstream.tech/about</link>
+  <description>Machine Learning Engineer, Remote</description>
 </li>
 ```
 
