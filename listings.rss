@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>climatework.mrshll.com</title>
+    <link>https://climatework.mrshll.com</link>
+    <description>An attempt to connect talented people with organizations that increase energy efficiency, decrease CO2 emissions, and conserve our natural resources.</description>
+    <item>
+       <title>Sidewalk Labs</title>
+       <link>https://boards.greenhouse.io/sidewalklabs/jobs/2435005</link>
+       <description>Software Eningeer, New York City</description>
+    </item>
+    <item>
+       <title>Nori</title>
+       <link>https://nori.com/company/careers?gh_jid=4179120003</link>
+       <description>Senior Software Eningeer, Seattle</description>
+    </item>
+  </channel>
+</rss>
