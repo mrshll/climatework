@@ -11,7 +11,7 @@ This board is an attempt to connect talented people with organizations that incr
   <title>Upstream Tech</title>
   <link>https://upstream.tech/about</link>
   <description>Machine Learning Engineer, Remote</description>
-</li>
+</item>
 ```
 
 To support a growing community of technologists and scientists in conservation and energy, you're encouraged to link to this page from a career page or job board. Understanding that it's nontrivial to change a company website, it's not required.
