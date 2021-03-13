@@ -18,7 +18,7 @@ To support a growing community of technologists and scientists in conservation a
 
 ## Climatework criteria
 
-Listed positions must be unambiguous in its role to mitigate climate change and conserve natural resources. The position must clearly state:
+Listed positions must be unambiguous in its role to mitigate climate change and conserve natural resources. The linked position must clearly state:
 - What the company does, and how it relates to climate, energy, and/or conservation
 - What the role's responsibilities are
 - What makes a strong applicant
