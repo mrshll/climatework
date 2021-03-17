@@ -4,7 +4,7 @@ This board is an attempt to connect talented people with organizations that incr
 
 ## How to add an open position
 
-1. Add the organization name, the job listing url, position and the location to [posts.rss](posts.rss) in a pull request. Don't know how? Ask me fore help!
+1. Add the organization name, the job listing url, position and the location to [posts.rss](posts.rss) in a pull request. Don't know how? Ask me for help!
 
 ```xml
 <item>
