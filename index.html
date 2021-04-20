@@ -53,7 +53,7 @@
     $.get('posts.rss', (data) => {
         $(data).find('item').each(function() {
             const el = $(this);
-            $('#posts').append(`<li><a href="${el.find('link').text()}">${el.find('title').text()} - ${el.find('description').text()}</a></li>`);
+            $('#posts').append(`<li><a href="${el.find('link').text()}" target="_blank">${el.find('title').text()} - ${el.find('description').text()}</a></li>`);
         })
     });
   </script>
